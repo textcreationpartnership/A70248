@@ -1,0 +1,410 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the triennial visitation of the right reverend father in God, Richard, L. Bishop of Bath and Wells held at Bridgewater, on the 19th day of August, 1695 / by Matthew Hole ...</title>
+            <author>Hole, Matthew, 1639 or 40-1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70248</idno>
+            <idno type="STC">Wing H2413</idno>
+            <idno type="STC">ESTC R212962</idno>
+            <idno type="EEBO-CITATION">31355757</idno>
+            <idno type="OCLC">ocm 31355757</idno>
+            <idno type="VID">29907</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70248)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29907)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1740:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the triennial visitation of the right reverend father in God, Richard, L. Bishop of Bath and Wells held at Bridgewater, on the 19th day of August, 1695 / by Matthew Hole ...</title>
+                  <author>Hole, Matthew, 1639 or 40-1730.</author>
+                  <author>Kidder, Richard, 1633-1703.</author>
+               </titleStmt>
+               <extent>[4], 5-30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Mat. Wotton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped, stained, and with print show-through and loss of text.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29907:1"/>
+            <pb facs="tcp:29907:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at the <hi>Triennial Viſitation</hi> OF THE Right Reverend Father in GOD, RICHARD, L. Biſhop of <hi>Bath</hi> and <hi>Wells:</hi> HELD AT <hi>BRIDGEWATER,</hi> on the 19th Day of <hi>August,</hi> 1695.</p>
+            <p>By <hi>MATTHEW HOLE,</hi> B. D. Vicar of <hi>Stokegurſey</hi> in <hi>Somerſetſhire.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Mat. Wotton</hi> at the <hi>Three Daggers</hi> in <hi>Fleetſtreet</hi> near the <hi>Inner-Temple-Gate.</hi> 1696.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:29907:2"/>
+            <pb facs="tcp:29907:2"/>
+            <head>TO THE Right Reverend Father in GOD, RICHARD, Lord Biſhop of <hi>Bath</hi> and <hi>Wells.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THis Sermon, which was Preached at Your Lordſhips Command, and Printed at the Requeſt of Your Clergy, naturally flyes to the Altar for Protection; and if it may be allowed to take Sanctuary there, it will not fear the Cenſure or Aſſaults of any Adverſaries. The ſubject matter of it being concerning Spiritual Gifts, 'tis in a manner intituled to the Care and Patronage of Spiritual Perſons; and eſpecially of Your Lordſhip, who is deſervedly placed in the higheſt Rank and Order of them. If any Evil Spirits ſhall ariſe, and oppoſe theſe Gifts of the Holy Ghoſt, as <hi>Jannes</hi> and <hi>Jambres</hi> of old withſtood <hi>Moſes,</hi> and <hi>Simon Magus</hi> and others reſiſted the Apoſtles, we need not doubt but the Author of them will help us to defend the Argument, and the Finger of God will elude the Ma<g ref="char:EOLhyphen"/>gical Enchantments both of Atheiſm and Enthuſiaſme.</p>
+            <p>If this Diſcourſe may any ways help forward the right uſe of theſe Spiritual Gifts; if it may ſerve to correct the
+<pb facs="tcp:29907:3"/>Abuſe of them in ſome, or to diſcountenance the vain Pre<g ref="char:EOLhyphen"/>tences to them in others, it may perhaps prove one of the Beſt Gifts that could be Preſented to the Church by one of the meaneſt Well-wiſhers to it.</p>
+            <p>
+               <hi>My Lord,</hi>
+            </p>
+            <p>I have Obeyed Your Lordſhips Command, which the Obligations of Duty and Gratitude muſt ever make me willing and ready to do.</p>
+            <p>That all Your Clergy may Reverence and Obey Your Lord<g ref="char:EOLhyphen"/>ſhip as their Spiritual Father, and that Your Lordſhip may long continue to be a Bleſſing and Support to Your Clergy, is the Hearty Prayer of,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Lordſhips moſt Obedient and Devoted Servant, MATTHEW HOLE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:29907:3"/>
+            <head>A SERMON Preached at the Triennial Viſitation, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 COR. xii. Laſt Verſe.</hi>
+                  </bibl>
+                  <p>But covet earneſtly the beſt gifts: And yet I ſhew unto you a more excellent way.</p>
+               </q>
+            </epigraph>
+            <p>THE great Subject of this Chapter is concerning Spiritual Gifts, which the Apoſtle in his entrance upon it, declares to be ſo uſeful and neceſſary a piece of Knowledge,
+<note place="margin">Ver. 1.</note> that he would by no means have us ignorant of it. And to the end that the Chriſtian Church might be rightly inſtructed in ſo Divine and Excel<g ref="char:EOLhyphen"/>lent a Subject, he here treats at large concerning the Author, the number, the uſe, and the diſtribution of theſe Spiritual Gifts.</p>
+            <p>For the Author, he declares it to be no other than the Holy Spirit of God, the Third Perſon in the ever Bleſſed and Adorable Trinity, whoſe peculiar Office in the Oeconomy of Mans Salvation, is to edifie and inſtruct the Church of
+<pb n="6" facs="tcp:29907:4"/>Chriſt, for which we are ſo entirely beholding to this Holy Spirit,
+<note place="margin">Ver. 3.</note> that no Man can ſay, that Jeſus Chriſt is the Lord, but by the Holy Ghoſt. And they are called therefore Spi<g ref="char:EOLhyphen"/>ritual Gifts, not becauſe they are ſeated in the Spiritual part or Soul of Man, but becauſe they proceed from the Spirit of God.</p>
+            <p>From the Author, he goes on to the number and variety of theſe Spiritual Gifts, reckoning up in the 4th and follow<g ref="char:EOLhyphen"/>ing Verſes, The Word of Wiſdom, the Word of Knowledge, the Gift of Prophecy, the Gift of Healing, the gift of Tongues, and the Interpretation of Tongues, and the like: All which diverſity of Gifts he tells us, <hi>flow from the ſame Spirit, and their different operations from the ſame Lord, who worketh all in all;</hi> that is, who worketh all theſe Gifts in all that have them.</p>
+            <p>And leaſt we ſhould miſtake the deſign of the Holy Ghoſt in beſtowing theſe Gifts, he proceeds to direct us in the right end and uſe of them, telling us, <hi>That the manifeſtation of the Spirit was given to every one to profit withal;</hi>
+               <note place="margin">Ver. 7.</note> that is, not barely to procure ſome private profit to themſelves, but for the publick good and benefit of others: They were not given for vanity and oſtentation, to ſet forth our ſelves by our Elo<g ref="char:EOLhyphen"/>quence, or any Elaborate Arts of Speech, much leſs to raiſe Schiſms and Factions, but to advance the Peace, Unity and Edification of the Church.</p>
+            <p>Then laſtly, for the diſtribution of theſe Gifts, he tells us, that they are not all given to one, nor are the ſame given to all, but they are ſcattered with an admirable variety and in different meaſures on the ſons of Men, that like the various Members of the Natural Body, they might be all helpful and ſerviceable to one another;
+<note place="margin">Ver. 28, 29, 30.</note> 
+               <hi>Are all apoſtles,</hi> ſaith he? <hi>are all prophets? are all teachers? do all ſpeak with tongues? do all interpret?</hi>
+               <note place="margin">Eph. 4.11, 12.</note> No, <hi>He hath given ſome to be apoſtles, ſome pro<g ref="char:EOLhyphen"/>phets, ſome evangeliſts, ſome paſtors, and ſome teachers;</hi> and
+<pb n="7" facs="tcp:29907:4"/>all this <hi>for the perfecting of the ſaints for the work of the mi<g ref="char:EOLhyphen"/>niſtry, and the edifying of the body of Chriſt.</hi>
+            </p>
+            <p>And having thus diſcourſed at large of the nature, end and uſe of theſe Spiritual Gifts, he cloſes the Chapter with this excellent advice of our Text, <hi>Covet earneſtly the beſt gifts:</hi> And for an introduction to the following Chapter, adds, <hi>And yet I ſhew unto you a more excellent way.</hi>
+            </p>
+            <p>The words will require a little Explication, before I can ſum up the ſenſe, or ſpeak clearly to them.</p>
+            <p>
+               <hi>Firſt,</hi> Then by <hi>gifts</hi> here, there can be no doubt but the Apoſtle chiefly intended thoſe ſupernatural and extraordinary gifts of Tongues, Miracles, Prophecy, and the like, which were rife and common in thoſe days; and were indeed ne<g ref="char:EOLhyphen"/>ceſſary in the Infancy of the Church, for the confirmation of the Goſpel, and to gain Proſelites to the belief of it: But thoſe extraordinary and miraculous Gifts having long ſince ceaſed, together with the reaſon of them, may not now be the object of our Ambition; and therefore the Apoſtles ad<g ref="char:EOLhyphen"/>vice here may be, and uſually is, extended likewiſe to the natural and acquired gifts of the Spirit, which are neceſſary ſtill to propagate the Doctrine of the Goſpel, as it now ſtands confirmed and derived down to us: Of this kind are thoſe intellectual habits and endowments of the Mind, by the improvement whereof, ſome attain to a greater skill in the Tongues, others excel in the knowledge of Arts and Sciences, by which means Men come to have different Ta<g ref="char:EOLhyphen"/>lents, and are diverſly qualified for publick ſervice: All which gifts, together with the improvement of them, pro<g ref="char:EOLhyphen"/>ceed ſtill from the ſame Spirit, and are given for the ſame uſe, even the good and benefit of Mankind; and theſe will be continued to the end of the World, only with this diffe<g ref="char:EOLhyphen"/>rence, that whereas the former were conferred on the Apo<g ref="char:EOLhyphen"/>ſtles, and others, by Inſpiration and ſudden Infuſion, and ſo they needed only to be directed to the right uſe of them; theſe latter are now conveyed to us by the ordinary Methods
+<pb n="8" facs="tcp:29907:5"/>of Study and Diligence, and ſo we are to be taught, both how to get, and how to uſe them as we ought. Theſe are the <hi>gifts.</hi> But,</p>
+            <p>
+               <hi>Secondly,</hi> What does the Apoſtle mean by the <hi>beſt gifts?</hi> For that term denotes not only a diverſity, but a preference of ſome above others. In Anſwer to which, by the <hi>beſt gifts</hi> here, we are to underſtand not abſolutely the beſt in every kind, but thoſe that were moſt uſeful, and tended moſt to the edification of the Church; for the Apoſtle having before aſſerted,
+<note place="margin">Ver. 7.</note> 
+               <hi>That the manifeſtation of the Spirit was given to every one to profit withal:</hi> Whatever moſt promoted that end was reckoned in the number of the <hi>beſt gifts;</hi> ſo that whether the Apoſtle referred here to the gift of Tongues, which was very neceſſary at that time, when the Goſpel was to be Preached to People of divers Nations and Languages, or whether he had an eye to the gift of Miracles, which gave the greateſt credit to their Doctrine, and begat the higheſt aſſent and veneration to it; or whatever elſe were the particular Gifts referr'd to, 'tis plain the Apoſtle meant by them, ſuch as beſt edified the Church; and conſequently by Analogy, we are ſtill to reckon thoſe the <hi>beſt gifts</hi> where<g ref="char:EOLhyphen"/>by we may beſt profit and edifie our Hearers. But,</p>
+            <p>
+               <hi>Thirdly,</hi> What is the Apoſtles meaning in bidding us to covet theſe Gifts and that earneſtly too? To covet in Scrip<g ref="char:EOLhyphen"/>ture is ſometimes taken in a very bad ſenſe, and there is one whole Precept in the Decalogue directly levell'd againſt it. Indeed to covet any of our Neighbours Goods, or to uſe any indirect arts to compaſs them, is a vile and deteſtable piece of Covetouſneſs, but to deſire the gifts of God for the good of Mankind, and to ſeek to enrich our Mind with the high<g ref="char:EOLhyphen"/>eſt and beſt abilities to promote his Glory, is a noble and laudable Ambition; and this is what the Apoſtle here re<g ref="char:EOLhyphen"/>commends to us. But,</p>
+            <p>
+               <hi>Fourthly,</hi> What is that more excellent way which he here directs to? <hi>And yet I ſhew unto you a more excellent way.</hi> The
+<pb n="9" facs="tcp:29907:5"/>words in the Original are, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>I ſhew unto you a way to attain to a greater excellency than any the beſt gifts can advance you to.</hi> And what's that? Why 'tis the Graces of the Spirit, as appears by what follows, where the Apoſtle immediately falls upon the excellent Grace of Charity, which as it comprizes the Love of God and our Neighbour, is the complex or ſummary of all Chriſtian Graces; and to ſet forth its excellence, he preſers it far above all other Gifts or Endowments whatever; as we ſhall ſhew hereafter.</p>
+            <p>From the words thus explained, we may eaſily gather theſe two Propoſitions.</p>
+            <list>
+               <item>I. That the Miniſters and Paſtors of the Church ought earneſtly to covet and labour for the <hi>best gifts;</hi> that is, thoſe eſpecially that tend moſt to the Benefit and Edifi<g ref="char:EOLhyphen"/>cation of the Church.</item>
+               <item>II. That the Graces of the Spirit are more excellent than the Gifts of it, and therefore ought to be more earneſtly coveted and laboured for.</item>
+            </list>
+            <p>Theſe two uſeful and ſeaſonable Truths ſhall be the ſub<g ref="char:EOLhyphen"/>ject of our enſuing Diſcourſe; and I begin with the firſt of them, <hi>viz.</hi>
+            </p>
+            <p>I. That the Miniſters and Paſtors of the Church ought earneſtly to covet and labour for the <hi>beſt gifts;</hi> that is, ſuch eſpecially as conduce moſt to the Benefit and Edification of their Hearers. St. <hi>Paul</hi> gave this direction with reference to thoſe extraordinary Gifts that were rife in his time, that they ſhould covet and ſeek after the beſt of them. And the Reaſon being ſtill the ſame, we are concerned likewiſe, even in thoſe ordinary Gifts that are continued to us, to deſire thoſe moſt that are likelyeſt to do moſt good. In treating therefore of this Propoſition, I muſt inquire,</p>
+            <pb n="10" facs="tcp:29907:6"/>
+            <p>
+               <hi>First,</hi> What are now the beſt or moſt beneficial Gifts for the uſe of the Church? And,</p>
+            <p>
+               <hi>Secondly,</hi> How we are to covet and ſeek after them.</p>
+            <p>For the <hi>First,</hi> Before I can ſhew you what are now the moſt uſeful and beneficial Gifts for the good of the Church, I muſt put you in mind of four or five Gifts or Talents in Prayer and Preaching, which are none of the beſt, though they have been too much affected in our days. And the</p>
+            <p n="1">1. I ſhall mention of theſe, is, The Gift of Extemporary Effuſions in Prayer, which ſome have miſcalled, <hi>The gift of Prayer.</hi> This is not much to be affected, nor to be reckon'd in the number of the <hi>best gifts;</hi> for this inſtead of edifying hath greatly diſturbed the Peace of the Church, and de<g ref="char:EOLhyphen"/>ſtroyed the Reverence and Harmony of Publick Worſhip. <hi>Solomon,</hi> who hath been juſtly reputed the Wiſeſt of Men, hath will'd us, <hi>Not to be raſh with our mouth, nor haſty to utter any thing before God,
+<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>cl. 5.2.</note> but to conſider that God is in heaven, and we are upon earth, therefore our words unto him ſhould be few.</hi> Meaning that we ſhould never approach the Divine Majeſty, but with the profoundeſt Awe and Reverence; and that is beſt ſignified by few and well weigh'd Expreſſi<g ref="char:EOLhyphen"/>ons in our Addreſſes to him: And therefore a greater than <hi>Solomon,</hi> even our Bleſſed Saviour himſelf, the Head and Founder of his Church, preſcribed a Form of Prayer to be uſed by his Diſciples and followers; and the Chriſtian Church according to his order, hath uſed the ſame ever ſince, and likewiſe compoſed her Publick Liturgies according to that excellent Platform: And thanks be to God, our Church hath at this day one of the moſt pious and beſt compoſed Li<g ref="char:EOLhyphen"/>turgies that is extant in the Chriſtian World; ſo that now we need only bring ardent deſires and good affections in the uſe of it, and we need not doubt a gracious anſwer and ac<g ref="char:EOLhyphen"/>ceptance. There was indeed in the days of the Apoſtles an extraordinary gift of Praying by Inſpiration, called ſome<g ref="char:EOLhyphen"/>times, <hi>Praying by the Spirit,</hi> which was neceſſary in the
+<pb n="11" facs="tcp:29907:6"/>beginning of Chriſtianity; when as the Apoſtle tells us, <hi>They knew not how or what to pray for as they ought;</hi> but when the Holy Spirit of God had dictated the holy Scriptures, wherein we are directed both as to the matter and manner of our Prayers; when the ſacred Canon was compleated, and Publick Prayers compoſed according to the directions of it, then this among other extraordinary Gifts ceaſed, toge<g ref="char:EOLhyphen"/>ther with the reaſon of it; for the Spirit of God which doth nothing in vain, is not wont to give extraordinary aſſiſtances when ordinary means will ſerve the turn.</p>
+            <p>So that all the gift of Prayer now remaining in the Church, conſiſts not in pouring out many and new words, but in the pious Motions, and good Affections of the Heart: <hi>The Spirit helps our infirmities ſtill;</hi> but how?
+<note place="margin">Rom. 8.26.</note> Not by furniſh<g ref="char:EOLhyphen"/>ing us with new Phraſes and variety of Expreſſions, which God is no way delighted with, <hi>but with ſighs and groans,</hi> ſaith the Apoſtle, <hi>that cannot be uttered;</hi> that is, by exciting the inward deſires and breathings of the Soul after him: Hence we read that the poor <hi>Publicans</hi> ſhort Letany,
+<note place="margin">Luke 18 10, 11, 14.</note> 
+               <hi>Lord be merciful to me a Sinner,</hi> prevail'd more for his Juſtification than the tedious Harangues of the <hi>Phariſee;</hi> which Sect, though in outward pretence and appearance the ſtricteſt in thoſe times, our Saviour blames for their Babling and vain Repetitions in Prayer, as if they thought to be heard for their much ſpeaking: And 'tis well known, what crude and indigeſted, not to ſay blaſphemous, Speeches have drop'd from the Mouths of ſuch bold pretenders to inſpir'd Prayers. The truth is, this Extemporary way of Praying was a thing unknown in the Primitive and purer Ages of the Church, and hath plainly appeared to be a late Invention, brought into theſe Kingdoms by the ſubtlety of Popiſh Emiſſaries, meerly to diſtract and divide the People; and we know how they triumph in the Schiſms and Confuſions that have been raiſed by it: which is enough to put us out of conceit with this Gift, and the pretenders to it.</p>
+            <pb n="12" facs="tcp:29907:7"/>
+            <p n="2">2. The Affectation of Tone, or the vehemence of Voice or Geſture in Prayer or Preaching ſerve not the true ends of Edification, and therefore may be reckoned rather among the Artifices of Seducers, than in the number of the <hi>beſt gifts;</hi> for Religion is a grave and ſerious thing, and makes its way into the Heart, rather by powerful Arguments than by a powerful Noiſe.
+<note place="margin">Kin. 19.1, 12.</note> We read in Scripture, that God was not in the Earthquake, nor in the Tempeſt, but in the ſmall and ſtill voice: And the efficacy of Gods Word is better convey'd by calm and ſound Reaſonings, than by the loudeſt bluſters of Action or Utterance: Such Bodily exerciſe pro<g ref="char:EOLhyphen"/>fiteth little, and is better ſuited to the Levity of the Stage, than to the Gravity of the Pulpit. Affected Tones and Ge<g ref="char:EOLhyphen"/>ſtures may indeed raiſe the Fancy, and over-heat the Imagi<g ref="char:EOLhyphen"/>nation, but ſeldom or never leave any true or laſting warmth upon the Heart or the Affections; they may ſerve to aſto<g ref="char:EOLhyphen"/>niſh and ſtartle weak People for the preſent, but the im<g ref="char:EOLhyphen"/>preſſion quickly wears off, and paſſeth away with the mo<g ref="char:EOLhyphen"/>tion or ſound that raiſed it. And therefore 'tis obſerved of thoſe that uſe or follow thoſe Arts, that though they may ſeem affected for a while, yet they never prove either the wiſer, or the better Men. Length and Lowdneſs were the main ingredients of the <hi>Phariſees</hi> Prayers; for which we find our Saviour often condemning their Hypocriſie, but ne<g ref="char:EOLhyphen"/>ver commending their Devotion. All that have had any game to play upon the People, have betook themſelves to ſuch Wiles, and by this Craft have got their Wealth, and made Merchandize of them.</p>
+            <p>But as it hath been the Honour of the Regular Clergy, not to affect ſuch Mean Arts, ſo 'twill be the Wiſdom of the Laity to beware of being deluded by thoſe that uſe them.</p>
+            <p n="3">3. The gift of divers Tongues, or the oſtentation of ſe<g ref="char:EOLhyphen"/>veral Languages in Popular Sermons, is of little or no uſe, and therefore not to be affected by us: For the Vulgar are
+<pb n="13" facs="tcp:29907:7"/>little edified by <hi>Latin;</hi> and 'tis Proverbial among them to ſay, of what they underſtand not, <hi>That 'tis</hi> Greek <hi>to them:</hi> So that the uſe of theſe Tongues in our Diſcourſes to them can be of no advantage; they may ſerve to amuſe and con<g ref="char:EOLhyphen"/>found them, but cannot any ways inform or help their un<g ref="char:EOLhyphen"/>derſtandings: 'Tis true indeed the ſtudy and knowledge of the Tongues are neceſſary to qualifie and accompliſh a Di<g ref="char:EOLhyphen"/>vine, ſeeing the Holy Scriptures, and many great and uſeful parts of Learning are written in thoſe Languages: But of what uſe the embelliſhing or interlarding our Diſcourſes with them to the Common People ſhould be, is not eaſie to underſtand.
+<note place="margin">1 Cor. 14.</note> The Apoſtle blames Praying and Prophecying in a Tongue not known to the People: And ſo far as we intermix theſe things, we ſpeak unto them in an unknown Tongue.</p>
+            <p>To this may be added the uſing of Hard Words, and Terms of Art, that are above the reach of Vulgar Under<g ref="char:EOLhyphen"/>ſtandings, ſpeaking as the Apoſtle expreſſes it,
+<note place="margin">2 Pet. 2.18. 1 Tim. 1.20.</note> 
+               <hi>great ſwelling words of vanity,</hi> and affecting Science falſly ſo called.</p>
+            <p>As alſo the Clouding our Diſcourſes with Myſtical Phraſes and Uncouth Expreſſions; ſuch as the Incomings and Out<g ref="char:EOLhyphen"/>lettings, the Beamings and Streamings of the Spirit, with ſuch like unintelligible Jargon; whereby ſome Men inſtead of making difficult things plain, have made plain things difficult, which is a very fruitleſs and unprofitable Talent.</p>
+            <p n="4">4. The Oſtentation of Wit, or Curioſity of Language in our Publick Diſcourſes tend little or nothing to Edifica<g ref="char:EOLhyphen"/>tion, and therefore may not be reckoned among the <hi>beſt gifts.</hi> Witty Sayings and fine Sentences may indeed tickle the Ears, but never ſink into the Heart; they may pleaſe a while, and afford matter of Talk, but they ſeldom or never profit the Hearers. St. <hi>Paul</hi> that great converter of Souls, declares that his <hi>Preaching conſiſted not in the wiſdom of words, but in the demonſtration of the ſpirit.</hi>
+               <note place="margin">1 Cor. 2.4.</note> He ſtudied not fineneſs of Expreſſion, but ſoundneſs of Doctrine: And
+<pb n="14" facs="tcp:29907:8"/>we read that the ſimplicity of the Goſpel prevailed more, than a vain oſtentation of Wit could ever do, and <hi>the fooliſhneſs of preaching triumph'd over all the wiſdom of the wiſe.</hi>
+               <note place="margin">1 Cor. 1.21.</note> Our Buſineſs (my Brethren!) is not to gratifie itching Ears, but to ſave Mens Souls; and that is better done by grave, ſolid and practical Diſcourſes, than by the moſt florid and polite Preachments, which may delight for the preſent, but bring no laſting Benefit or Inſtruction with them: For as the plaineſt Food nouriſhes more than the moſt delicious Kickſhaws, ſo plain Truths without Art or Varniſh, oft-times leave deeper Impreſſions on the Mind, than all the Charms of Humane Eloquence.</p>
+            <p>Laſtly, The Art of ſtraining the words of Scripture, and forcing them from their plain and genuine Senſe, is none of the <hi>beſt gifts:</hi> This is done ſometimes by Criticks, who to advance a new Notion will ſtretch and pervert the Holy Scripture, and by the help of Invention, and the ambiguity of Words and Particles, offer violence to a Text, and even take it by force.
+<note place="margin">lat. 5.</note> Our Bleſſed Saviour rebuk'd the <hi>Phariſees</hi> for their falſe Gloſſes, by which they made void the Law of God: And theſe Men juſtly incur the ſame Cenſure, who by their wild and ſtrain'd Interpretations make the Goſpel of Chriſt of none effect.</p>
+            <p>There are others, who to ſerve the Intereſt of a Party, will rack and torture the Scriptures, to make them ſpeak what they pleaſe: Hence ſome have uſed the Bible as the moſt ſucceſsful Engine to overturn Church and State, and have made the Goſpel of Peace, the Trumpet of War and Sedition. This is a moſt pernicious Talent, and hath done unſpeakable miſchief. St. <hi>Peter</hi> tells us of ſome, who wreſt the Scripture to their own Damnation:
+<note place="margin">Pet. 3.</note> And we have heard of others, who have wreſted them to the ruine and ſubverſion of Kingdoms, and have ſo far rack'd ſome Paſſages of Sacred Writ, as even to force them to ſpeak Blood and Confuſion.</p>
+            <pb n="15" facs="tcp:29907:8"/>
+            <p>But our Apoſtle does not here will us to covet, but to abhor ſuch vile and deteſtable Arts.</p>
+            <p>And thus having mentioned ſome of thoſe Gifts, which though too much in vogue, are yet none of the heſt, I pro<g ref="char:EOLhyphen"/>ceed now to thoſe more uſeful Talents and Abilities, that tend moſt to the Edification of the Church, and therefore ought to be coveted by us as the <hi>beſt gifts.</hi>
+            </p>
+            <p>To which end, we muſt note, that the two great parts of Edification, are Knowledge and Practice.</p>
+            <p>The former gives Men the right underſtanding of Holy Myſteries: And the latter teaches them to ſquare their Lives and Actions according to them. And conſequently the <hi>beſt gifts</hi> are thoſe that enable us,</p>
+            <p>
+               <hi>Firſt,</hi> To ſettle and inform Mens Judgments aright in the knowledge of the Truth. And,</p>
+            <p>
+               <hi>Secondly,</hi> To excite their Affections to the Love and Pra<g ref="char:EOLhyphen"/>ctice of it.</p>
+            <p>
+               <hi>Firſt,</hi> I ſay, We are to covet thoſe as the <hi>beſt gifts</hi> that enable us to inform and ſettle Mens Judgments aright, in the knowledge of the Truth. Here we muſt begin; for if we go about to move and ſtir the Affections, before the Mind be well informed, we ſhall beget a Heat without Light, or a Zeal without Knowledge, which will be of very evil and dangerous Conſequence. Our Apoſtle tells us, <hi>That 'tis good to be zealouſly affected;</hi>
+               <note place="margin">Gal. 4.18.</note> but then he limits it, <hi>always to a good thing:</hi> And therefore the Mind muſt be well inſtructed in the goodneſs of the thing, before we ex<g ref="char:EOLhyphen"/>cite to the love or purſuit of it, otherwiſe Zeal may ſpend it ſelf, as it too often does, upon very bad matters: And this is the root and foundation of all Fanaticiſm: For ſome Teachers ſeek to work upon and warm the Paſſions of Men, before their Judgments are well informed, and thereby
+<pb n="16" facs="tcp:29907:9"/>make their Hearers zealous for or againſt things, without giving them the right underſtanding of either; and this hath begot thoſe intemperate heats in Religion, which have frequently broke but to the diſturbance of Church and State.</p>
+            <p>The Affections which are too apt to inflame, are very unfit to guide, and therefore they muſt not outrun, but fol<g ref="char:EOLhyphen"/>low the underſtanding, and be guided by the dictates of a well informed Judgment; for elſe how eaſily may the undue fervours of the Mind lead to the heats of Enthuſiaſme, or the weakneſſes of Superſtition? And how frequently have they that have been too haſty and eager in raiſing the Affe<g ref="char:EOLhyphen"/>ctions, made ſad work with the Paſſions of Men?</p>
+            <p>By this means,
+<note place="margin">2 Tim. 3.7.</note> ſome have been <hi>ever learning, and never come to the knowledge of the truth,</hi> being unſtable in their Principles,
+<note place="margin">Eph. 4.14.</note> and like <hi>children toſſed to and fro with every wind of doctrine; by the cunning craftineſs of thoſe that lay in wait to deceive.</hi>
+            </p>
+            <p>To edifie then, or profit our Hearers, we muſt begin with their Judgments, and indeavour to ſettle them aright in the great Points of Religion: For as in the Creation of the World, the firſt thing created was Light, and that diſ<g ref="char:EOLhyphen"/>pelled the Darkneſs of the rude and unformed Chaos; even ſo in the new Creation, the firſt thing muſt be to let in a clear and convincing light upon the Soul, and that will ſcat<g ref="char:EOLhyphen"/>ter all the miſts of Error and Ignorance.</p>
+            <p>To this end Catechizing will be of very great uſe, to in<g ref="char:EOLhyphen"/>ſtruct Children betimes in the Principles of Religion, to inſtill into them the knowledge of God, and to ſeaſon their tender Years with an Early Piety:
+<note place="margin">Prov. 22.6.</note> By thus <hi>training up children betimes in the way that they ſhould go, Solomon</hi> hath told us, <hi>that when they are old, they will not depart from it.</hi>
+            </p>
+            <p>As they grow up, we muſt explain to them the Nature and Obligation of their Baptiſmal Vow, giving them to underſtand what they have promiſed, and how they may
+<pb n="17" facs="tcp:29907:9"/>be enabled to perform it. When they come to greater Ma<g ref="char:EOLhyphen"/>turity, we are to let them know upon what grounds the Articles of the Chriſtian Faith ſtand, that they may not be ſhaken from the belief of them: And this will be beſt done by a plain and eaſie Expoſition of the Apoſtles Creed.</p>
+            <p>After this, we are to ſhew them the excellency and extent of the Divine Law by a fuller Explication of the <hi>Decalogue,</hi> or Ten Commandments, deſcribing the Nature of every particular Vertue and Vice, required and forbidden in them:
+<note place="margin">Pſal. 119<g ref="char:punc">▪</g> 18.</note> So ſhall we open their Eyes to ſee the wondrous things of Gods Law; we ſhall lead them as it were by the hand into the paths of Righteouſneſs, and guide their feet into the ways of Truth and Peace. And having thus fixed and ſettled their Judgments in the knowledge of Divine Truths, we are then to apply our ſelves to the</p>
+            <p>Second part of Edification; and to covet thoſe Gifts that may beſt ſerve to move their Affections, and to ſtir them up to the love and practice of their Duty. And here we may ſafely uſe all the Arts of Divine Rhetorick, and betake our ſelves to the moſt prevailing Topicks and Methods of Perſwaſion: Here we may deſcribe the lovelineſs and re<g ref="char:EOLhyphen"/>wards of Vertue, ſetting forth in the moſt lively colours the Beauty of Holineſs, that Men may be enamour'd and fall in love with it: Here we may repreſent the uglyneſs and deformity of Vice, painting it in the blackeſt and moſt odious ſhape, to beget the greater abhorrence and deteſta<g ref="char:EOLhyphen"/>tion of it. When we would reveal the Wrath of God from Heaven againſt Sinners,
+<note place="margin">Exo. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> we may appear as on Mount <hi>Sinai,</hi> in Thunder and Lightning, to make (if poſſible) the ſturdieſt Sinners to quake and tremble. When we would diſplay the Riches of Divine Grace in the Work of Mans Redemption, we may like our Saviour on the Mount of <hi>Olives,</hi> breathe out nothing but Joy and Bleſſedneſs,
+<note place="margin">Mat. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> and with open voice proclaim the glad tidings of the Kingdom of Heaven. Knowing the Terrors of the Lord, we are to
+<pb n="18" facs="tcp:29907:10"/>perſwade Men to <hi>flee from the wrath to come.</hi>
+               <note place="margin">Cor. 5.1.</note> And know<g ref="char:EOLhyphen"/>ing the tender Love of God to Mankind, we are to court them to accept of Mercy and Pardon, and as Ambaſſadors in Chriſts ſtead,
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. 20.</note> beſeech them to be reconcil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d. This will make our Doctrine drop as the Rain, and our Speech diſtill as the Dew; gently ſliding through the Ears into the Hearts of our Hearers, and by a ſweet facility inſinuating it ſelf into their Will and Affections:
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. 10.5.</note> And then how beautiful will be the feet of them that thus preach the Goſpel of Peace, and bring glad tidings of good things?</p>
+            <p>And thus having ſhewed what are the <hi>beſt gifts,</hi> and moſt worthy of our ambition; I proceed,</p>
+            <p>
+               <hi>Secondly,</hi> To ſhew how we are to covet them; which our Text tells us, muſt be earneſtly: <hi>Covet earneſtly the beſt gifts.</hi> Now to covet any thing in good earneſt, is not barely to approve of it, nor yet much leſs to ſit down with faint and languiſhing wiſhes after it, but to apply our ſelves to the moſt proper means of attaining it, and to exert the utmoſt of our Powers and Faculties in endeavours after it: And therefore when the Apoſtle adviſeth us to <hi>covet ear<g ref="char:EOLhyphen"/>neſtly the beſt gifis,</hi> he thereby puts us upon uſing the beſt means of becoming Maſters of them. And becauſe it may be asked what they are? I ſhall briefly mind you of theſe four.</p>
+            <p n="1">1. Diligent Study. 2. Frequent Exerciſe. 3. Hearty Prayer. And 4. A good Life. Of each of which a word or two diſtinctly. And,</p>
+            <p n="1">1. We muſt covet theſe Gifts by our diligent Study and earneſt ſearch after them; for this is now the ordinary way and means of acquiring them. Indeed in the days of the Apoſtles, the Spirit was poured out, and came upon them not by Study, but by ſudden Infuſion. The mighty wind in which the Holy Spirit deſcended, was a Symbol of Inſpi<g ref="char:EOLhyphen"/>ration, and betokened the breathing into them the Gifts of
+<pb n="19" facs="tcp:29907:10"/>the Holy Ghoſt: The Fire that ſate upon their Heads, re<g ref="char:EOLhyphen"/>preſented that fervency of Spirit, which enabled them with courage to go through all the difficulties of their Office: The Cloven-Tongues beſpake the diverſity of Languages with which they were endow'd; by which means Illiterate Perſons excelled the greateſt Rabbies, and Fiſhermen ſpake more Languages than the moſt ſtudied Linguiſts. But now we are to ſeek <hi>that</hi> by Induſtry, which they had by Inſpira<g ref="char:EOLhyphen"/>tion; and the Church being arrived at the Stature of a Man in Chriſt Jeſus, God Almighty hath laid aſide thoſe extraordinary helps and ſupports of Infancy: So that Dili<g ref="char:EOLhyphen"/>gence now keeps the Key of Knowledge, and 'tis Study alone that opens to us the Treaſures of Wiſdom;
+<note place="margin">2 Tim. 2.15.</note> 
+               <hi>Study,</hi> ſaith the Apoſtle, <hi>to ſhew thy ſelf a workman, that needeth not to be aſhamed.</hi> To be an Able Divine is a work of Study; and a ſerious intention of Mind is neceſſary to the expert and faithful diſcharge of our Office: We may not now pretend to, or look for Inſpiration, nor hope by Dreams and Viſions to know the Will of God: No, Ignorance and Folly are the effects of Sloth, whilſt Learning and Know<g ref="char:EOLhyphen"/>ledge are only the Rewards of Induſtry;
+<note place="margin">Rom. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 8.</note> 
+               <hi>The word is nigh thee,</hi> ſaith the Apoſtle, <hi>even in thy mouth, and in thy hand,</hi> oh! let it be in thy Heart too, and make it the daily object of thy Study and Meditation:
+<note place="margin">2 Pet. 19.</note> 
+               <hi>We have a ſure word of pro<g ref="char:EOLhyphen"/>pheſie,</hi> ſaith St. <hi>Peter, whereunto we do well to take heed, as to a light that ſhineth in a dark place. Solomon</hi> that great Maſter of Wiſdom, exhorts us to ſeek for Knowledge, and to ſearch diligently for Underſtanding; yea, he wills us to <hi>ſearch for it as for ſilver, and to dig for it as for hid treaſure;</hi>
+               <note place="margin">Prov. 4.</note> for though there be ſome truths that ſeem to float at top, and to lye open to a careleſs eye, yet there are others that lye deep, and require a profounder ſearch; here we are to imploy our moſt compoſed thoughts, giving our ſelves to Reading and Meditation, as the firſt and great means of attaining them.</p>
+            <pb n="20" facs="tcp:29907:11"/>
+            <p n="2">2. Our ſtudy for theſe Gifts muſt be accompanied with the frequent uſe and exerciſe of them: This will whet our Parts, and ſet an edge on our Faculties, and thereby enable us rightly to divide the Word of Truth. St. <hi>Paul</hi> exhorts <hi>Timothy,</hi>
+               <note place="margin">Tim. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 6.</note> to <hi>ſtir up the gift of God that was in him;</hi> ſignify<g ref="char:EOLhyphen"/>ing that 'tis Exerciſe that puts Life and Vigour into our Parts; that blows up thoſe Sparks within us, and quickens them in o a bright and uſeful Flame. Thus to imploy is to improve our Talent, which will daily increaſe by Exer<g ref="char:EOLhyphen"/>ciſe, and like the Widows Cruiſe of Oyl, multiply by being uſed. A lazy neglect of Mens Gifts makes them do the work of the Lord negligently; and for want of a due exer<g ref="char:EOLhyphen"/>ciſe of their own Parts, they do but too much exerciſe the Patience of them that hear them. He that buryed his Ta<g ref="char:EOLhyphen"/>lent in the Earth, and he that wrapped it in a Napkin, were both deprived of them, and doom'd as wicked and unprofi<g ref="char:EOLhyphen"/>table ſervants to outer darkneſs; whereas he that uſed his Talent to his Maſters Honour, was commended for a good and faithful Servant, and enter'd into his Maſters Joy; which makes it evident, that Exerciſe is a good means of improving our Gifts, and procuring to us the Reward of them.</p>
+            <p n="3">3. To the Exerciſe of our Gifts we muſt add hearty and fervent Prayer for a Bleſſing upon them; for though <hi>Paul</hi> may plant,
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or. 3.</note> and <hi>Apollo</hi> may water, yet 'tis God alone that gives the increaſe.
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 1.5.</note> 
+               <hi>If any lack wiſdom,</hi> ſaith St. <hi>James, let him ask it of God.</hi> Thither our recourſe muſt be, if ever we hope to obtain it; and indeed whither elſe ſhould we go?
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 6.68.</note> 
+               <hi>He only hath the words of eternal life.</hi> To ſeek for Wiſ<g ref="char:EOLhyphen"/>dom only in Books and Writings, is but to ſeek the living among the dead; 'tis the Bleſſing of God that enlivens our indeavours, and makes us rich both in Grace and Know<g ref="char:EOLhyphen"/>ledge; and he that leaves out this in his ſearch after them, will never arrive to more than what will betray his own Ignorance:
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es 1.</note> 
+               <hi>Every good gift and every perfect gift is from
+<pb n="21" facs="tcp:29907:11"/>above, and cometh down from the father of lights:</hi> And there<g ref="char:EOLhyphen"/>fore we muſt look upward, and make our requeſts known unto him, in whom are hid all the treaſures of Wiſdom and Knowledge; and for our encouragement, the ſame Apoſtle tells us, that he <hi>giveth to all men liberally,
+<note place="margin">Jam. 1.5.</note> and upbraideth not:</hi> And our Bleſſed Saviour hath aſſured us, that Earthly Parents are not more willing to give good Gifts to their Children,
+<note place="margin">Mat. 7.11.</note> than our Heavenly Father is to give the Holy Spirit to them that ask it. Our deſires then of theſe Gifts muſt be carried on with unceſſant Petitions to God for them, and if we would attain to any meaſure of them, we muſt ſeek them upon our Knees<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: for 'tis the Bleſſing of God that gives the Talent, and the Improvement too; and the Fruits of the Spirit owe all their increaſe to the Dew of his Heavenly Benediction.</p>
+            <p>Laſtly, To our Prayers we muſt joyn the exerciſes of Vertue and a Holy Life; for Wiſdom enters not into a pol<g ref="char:EOLhyphen"/>luted Soul, nor can ſo refin'd a perfection inhabit an impure or corrupt Heart: <hi>The carnal mind is enmity againſt God:
+<note place="margin">1 Cor. 2.14.</note> It receives not the things of the ſpirit of God, neither can it know them, becauſe they are ſpiritually diſcerned.</hi> And there<g ref="char:EOLhyphen"/>fore our Hearts muſt be purged from the corruptions of Sin and Errour, to make way for the entrance of Divine Truths; and our Souls muſt be conſecrated to holy uſes, be<g ref="char:EOLhyphen"/>fore they can be fit to be the Temples of the Holy Ghoſt: A good Life will beſt diſpoſe us to a good Underſtanding, and ſincere deſires of pleaſing God will make us uſeful and profitable unto Men. So that if we mean to arrive at any proficiency or growth in Knowledge, we muſt live up to that whereunto we have already attain'd; for <hi>he that doth the will of my father,</hi> ſaith our Saviour,
+<note place="margin">John <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 17.</note> 
+               <hi>he ſhall know the doctrine, whether it be of God.</hi> 
+               <q>Divinity (as one hath well obſerved on thoſe words) is a Science that we are not ſo much to Study, as to Live our ſelves into:</q> It paſſes into the Head through the Heart, and our Knowledge will
+<pb n="22" facs="tcp:29907:12"/>daily increaſe by the Love and Practice of what we know; for God Almighty delights to communicate his Mind to ſuch as are willing to do it:
+<note place="margin">Pſal. 25.9, 14.</note> 
+               <hi>The ſecret of the Lord,</hi> ſaith the Pſalmiſt, <hi>is with them that fear him, and he will teach them his covenant:</hi> And elſewhere, <hi>The meek he will guide in judgment, and the humble he will teach his way.</hi> He is ever ready to reward the leaſt degree of Obedience to his Will, with farther diſcoveries of it. And therefore the ſame in<g ref="char:EOLhyphen"/>genious Author hath obſerved, <q>That in old time the Men of extraordinary Revelations were Men of extraordinary Piety too; and ſuch had moſt of the ſecret Will of God imparted to them that beſt performed his revealed Will: They were the <hi>Enochs,</hi> the <hi>Abrahams,</hi> and the <hi>Elijahs;</hi> and ſuch of whom the Scripture more remarkably teſti<g ref="char:EOLhyphen"/>fies, that they walked with God. And ſurely he that walketh with another is likely to know more of his Mind than a ſtranger, or one that keeps at a diſtance from him.</q> In ſhort, Vertue is the moſt fruitful Principle of Knowledge, and he that doeth what he knows of the Will of God ſhall be ſure to know more of it; <hi>for to him that hath ſhall be given,</hi> ſaith our Saviour, <hi>and he ſhall have abundantly.</hi>
+            </p>
+            <p>And thus I have done with the firſt part of our Text, having ſhew'd you what are the <hi>beſt gifts,</hi> and how we are to covet and ſeek after them.</p>
+            <p>But I muſt crave a little more of your Patience, whilſt I ſhew unto you a more excellent way. And this will bring me to the ſecond part of our Text contained in this Propoſition.</p>
+            <p>II. That the Graces of the Spirit excel the higheſt and the beſt Gifts of it. And here I could almoſt wiſh for the Tongue of an Angel, to deſcribe to you this <hi>more excellent way,</hi> and to perſwade you to walk in it. But St. <hi>Paul</hi> who was rap't up into the third Heaven, hath prevented our
+<pb n="23" facs="tcp:29907:12"/>wiſh, and extoll'd the ſingle Grace of Charity, as high as words can reach, above all other Gifts and Endowments whatever; for in the next words to our Text, he thus deli<g ref="char:EOLhyphen"/>vers himſelf: Could I ſpeak with the tongue of Men and of Angels, and had all the Charms of Divine and Humane Eloquence; could I dart the brighteſt Beams of Light into Mens Underſtanding, and by the moſt powerful Rhetorick command and inſinuate into their Affections, yet without Charity,
+<note place="margin">1 Cor. 13.1.</note> I am no better than a ſounding Braſs or a tink<g ref="char:EOLhyphen"/>ling Cymbal: Had I the Gift of Prophecy, and underſtood the deepeſt Myſteries; had I the knowledge of all that is paſt ſince the beginning of Time, and could foretel things to come to the end of the World, yea, had I faith ſtrong enough to remove Mountains, and to make the Poles of the World to change their place, yet in all theſe accom<g ref="char:EOLhyphen"/>pliſhments, without Charity, I am nothing leſs than no<g ref="char:EOLhyphen"/>thing and vanity. What could the Tongue of Men or of Angels ſpeak higher in the praiſe of this Vertue, and to extol the Graces above the Gifts of the Spirit? But there are three things that will plainly demonſtrate the preheminence.</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> The ſubjects on whom they are beſtow'd.</item>
+               <item>
+                  <hi>Secondly,</hi> The end or uſe unto which they ſerve. And,</item>
+               <item>
+                  <hi>Thirdly,</hi> The term of their duration or continuance.</item>
+            </list>
+            <p>
+               <hi>Firſt,</hi> The ſubjects on whom they are beſtowed will give Grace vaſtly the preheminence; for Gifts like the Rain, and other Common Bleſſings, are ſhowred down promiſcuouſly on the Good and Bad, and the Light of the Spirit, like that of the Sun, ſhines indifferently both on the Juſt and Unjuſt. <hi>Judas</hi> had the Gifts of Propheſie and Miracles, as well as the other Apoſtles; and our Saviour hath told us, that <hi>many will ſay unto him at the
+<pb n="24" facs="tcp:29907:13"/>laſt day,
+<note place="margin">Matth. 7.22.</note> Lord, Lord, have we not prophecyed in thy name? And in thy name done many wonderful works?</hi> Who yet ſhall be bid to depart from him as workers of Iniquity. So that the higheſt and beſt Gifts neither find, nor give any intrinſick worth to the perſons that have them, but leave them many times as bad or worſe than they found them; for many who in Chriſts Name had caſt out Devils, will be ſentenced by Chriſt himſelf to take up their abode for ever with them. But Grace on the other hand ſtamps an excellence on thoſe that receive it; for it makes them like unto God, and renders them moſt acceptable to him, and therefore is conferred on none but the particular Favourites and Darlings of Heaven: 'Tis only the excellent ones of the Earth,
+<note place="margin">Pſal. 16.3.</note> as the <hi>Pſalmiſt</hi> ſtiles them, that walk in this more excellent way, when many gifted Brethren will be found in the broad way that leadeth to deſtruction. Grace is that Seal of the Spirit, of which the Apoſtle ſpeaks, whereby the Children of God <hi>are marked and ſealed unto the day of redemption.</hi>
+               <note place="margin">Eph. 4.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> 'Tis by this Seal, as the ſame Apo<g ref="char:EOLhyphen"/>ſtle tells us,
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tim. 2.9.</note> 
+               <hi>That the Lord knoweth who are his;</hi> and by this Sacred Stamp or Signature, we too may know whe<g ref="char:EOLhyphen"/>ther we belong to him; for the Graces of the Spirit are the particular marks and tokens of the Divine Favour, which are not communicated to any, but the Elect People of God.
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at. 7.6.</note> The Holy Ghoſt is not wont to caſt theſe Pearls before Swine, nor is this Childrens Bread given unto Dogs: No, this is reſerved as the peculiar Lot and Portion of the Saints, and therefore muſt far ſurpaſs thoſe Common Gifts, that are ſhared promiſcuouſly by wicked Men.</p>
+            <p>
+               <hi>Secondly,</hi> The end or uſe to which they ſerve, will far<g ref="char:EOLhyphen"/>ther give Grace the preheminence above the <hi>beſt gifts:
+<note place="margin">Cor. 8.</note> For knowledge,</hi> ſaith the Apoſtle, <hi>puffeth up,</hi> and tempts
+<pb n="25" facs="tcp:29907:13"/>many a Man to Pride and Vanity, whereas 'tis Charity that edifieth, 'tis Grace that corrects the ſwelling qua<g ref="char:EOLhyphen"/>lity of Gifts, that layes the foundation in Humility, and thereby builds us up in our moſt Holy Faith: The great<g ref="char:EOLhyphen"/>eſt Gifts and Abilities, if not accompanied with Grace to direct the uſe of them, are ſo far from edifying, that they have in all Ages done the Church the greateſt Miſ<g ref="char:EOLhyphen"/>chief. How many peſtilent Errours and Schiſms are ow<g ref="char:EOLhyphen"/>ing to the greater parts and abilities of Hereticks? What ground hath Atheiſm and Debauchery got in the World by the Influence and Diſcourſes of the fineſt Wits? And as the ſharpeſt Razour cuts deepeſt, ſo have the quickeſt Parts made the deepeſt Wounds in Religion, and Mens Souls: ſo pernicious are the effects of their ill management both to the Publick and themſelves. But Grace is ſo far from being lyable to theſe, or the like Abuſes, that it prevents the Evil, and corrects the abuſes of our Gifts: 'Tis this puts all their uſefulneſs into them, and makes them inſtead of doing harm, become inſtruments of much good unto the Church; and conſequently 'tis the ſanctifying of Gifts, that like the enamelling of Pearls, gives them their main luſtre and value. But,</p>
+            <p>
+               <hi>Thirdly.</hi> There is another great and ſurpaſſing excellency in the Graces above the Gifts of the Spirit, and that is the Duration or Continuance of them; for Grace hath Eternity ſtamped on it; 'tis coeval with the Spirit of God that gives it, and as Immortal as the Spirit or Soul of Man that receives it: This is more than can be ſaid of the <hi>beſt gifts;</hi> for of theſe the Apoſtle declares in the next Chapter,
+<note place="margin">1 Cor. 8, 9, 1<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> that they muſt ſhortly have an end and be done away: <hi>Whether there be propheſies,</hi> ſaith he, <hi>they ſhall fail, whether there be tongues, they ſhall ceaſe, whether there be knowledge, that ſhall vaniſh away:</hi> But Charity he tells
+<pb n="26" facs="tcp:29907:14"/>us ſhall never fail, and of the Graces of the Spirit, he af<g ref="char:EOLhyphen"/>firms that they ſhall abide for ever.</p>
+            <p>This is an excellency that far tranſcends all other Per<g ref="char:EOLhyphen"/>fections whatever; 'tis the diſgrace of all Worldly Ex<g ref="char:EOLhyphen"/>cellencies, that they are ſhort-liv'd and vaniſhing; Riches periſh in the uſing, the pleaſures of Sin are but for a ſeaſon, Honour is but a puff of Wind, a bubble that paſ<g ref="char:EOLhyphen"/>ſeth away with the breath that raiſed it; yea, the moſt ſpecious and durable accompliſhments on this ſide Reli<g ref="char:EOLhyphen"/>gion muſt all fail, and leave us at the Grave: But Grace goes farther with us, and accompanies us into the other World, where it not only leads to, but makes up the chiefeſt part of our Felicity. St. <hi>John</hi> tells us, that good Men at their Death reſt from their Labours; that is, among other things, from the Laborious Exerciſe of their Gifts: but their good Works, and the gracious Ha<g ref="char:EOLhyphen"/>bits of their Mind follow, and go along with them, and that not only to crown them with a Reward, but to perpetuate the very Action; for Grace differs from Glory not in Kind, but merely in Degree; and thoſe gracious Habits, that are begun and planted in us here, will there grow up into a greater Maturity and Perfection.</p>
+            <p>Yea, Heaven is nothing elſe but the Bleſſed Manſion of Holineſs, where that Grace, that is here Militant, and daily ſtruggling with the reliques of corrupt Nature, will there be Triumphant, with a Palm of Victory in her Hand, and a Crown of Gold upon her Head, and the Spirits of Juſt Men in whom it reigns, ſhall be made per<g ref="char:EOLhyphen"/>fect, and become more than Conquerours through Chriſt that loved them.</p>
+            <pb n="27" facs="tcp:29907:14"/>
+            <p>And now having by the Bleſſing of God finiſhed what I at firſt propoſed, give me leave to preſs the Exhortation of the Text, with reſpect both to the Gifts and Graces of the Spirit. And,</p>
+            <p>
+               <hi>First,</hi> Let me exhort you to <hi>covet earneſtly the beſt gifts;</hi> that is, to labour for the moſt uſeful and edifying Abi<g ref="char:EOLhyphen"/>lities, whereby you may beſt ſerve the Church, and profit your Hearers. And here if I could ever hope to prevail, methinks it might be reaſonably expected from ſuch an Aſſembly as this, conſiſting of Perſons, whoſe great buſi<g ref="char:EOLhyphen"/>neſs it is to inſtruct others in the Knowledge and Practice of Divine Things: Know then, my Brethren, that this is the main end of our Miniſtry, and the deſign of all our Spiritual Gifts, and therefore hither ſhould all our aimes and indeavours tend<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: Remember that you are the Mouth of the People unto God, to make known their Requeſts unto him; and you are the Mouth of God unto the Peo<g ref="char:EOLhyphen"/>ple to make known his will unto them: The faithful diſcharge of both theſe may indeed require no ſmall La<g ref="char:EOLhyphen"/>bour, but 'twill be abundantly recompenſed with a great Reward.</p>
+            <p>In your Prayers then affect not Novelty or Variety of Expreſſions, which are no way pleaſing unto God: But let all your Addreſſes unto him be in fit Words, and in all the decent Poſtures of Humility and Adoration. Read the Publick Prayers of the Church with Reverence and devout Affections, that the Hearers Zeal may be enkindled, by the pious ardours of your Devotion.</p>
+            <p>In your Preaching ſhew <hi>
+                  <g ref="char:V">Ʋ</g>ncorruptneſs, Gravity,
+<note place="margin">Tit. 2<g ref="char:punc">▪</g> 7, 8.</note> Since<g ref="char:EOLhyphen"/>rity, and ſound Speech, that cannot be condemned, that he who is of the contrary part may be aſhamed, having no evil
+<pb n="28" facs="tcp:29907:15"/>thing to ſay of you:</hi> So ſhall you put a muzzle upon the prophaneſt Mouths, and cut off all occaſion from them that ſeek occaſion againſt you. Stir up your People to Love and to good Works; for theſe things are good and profitable unto Men; and when they are thus forced to approve your Labours, you will be the better able to con<g ref="char:EOLhyphen"/>vince gainſayers, and to ſtrike detractors dumb. Do not entertain Vulgar Hearers with nice and curious ſpecula<g ref="char:EOLhyphen"/>tions, which rather perplex than inform their Minds, but let all your Diſcourſes to them be evermore plain and pra<g ref="char:EOLhyphen"/>ctical, leaving matters of Diſpute to the Schools, or more Learned Auditories. Avoid all things that may engender Strife, or lead to Faction, and follow thoſe things that make for Peace, and things whereby ye may edifie one another. Do not uſe your Gifts to Pride and Vain-glory, for this is to make the Breathings of the Holy Ghoſt, ſub<g ref="char:EOLhyphen"/>ſervient to the vain Breath of the Multitude, which can<g ref="char:EOLhyphen"/>not but grieve the Holy Spirit of God, and do deſpight to the Spirit of Grace. Beware of abuſing your Parts to the Maintenance of Schiſm and Diviſions, but rather uſe your utmoſt Prudence to heal thoſe Breaches which open too wide a gap for Atheiſm, Confuſion, and every evil work. Suit all your Diſcourſes both to the Neceſſities, and likewiſe to the Capacities of your Hearers, having Milk for Babes, and ſtronger Meat for riper Chriſtians: In a word, Feed your Flocks with ſound Doctrine, and go before them by a Pious Example, that they may ſafely both hear your Voice, and follow you.</p>
+            <p>But I may not conclude without minding you of the <hi>more excellent way,</hi> and calling upon you to walk and keep in it; that is, to covet more earneſtly the Graces than the Gifts of the Spirit: We have ſeen how far the one excells the other; that 'tis Grace alone that ſanctifies our Gifts,
+<pb n="29" facs="tcp:29907:15"/>and gives them all their worth and excellence: This there<g ref="char:EOLhyphen"/>fore juſtly calls for our moſt earneſt Prayers and Endea<g ref="char:EOLhyphen"/>vours; <hi>'Tis good,</hi> ſaith the Apoſtle,
+<note place="margin">Heb. 13<g ref="char:punc">▪</g> 9.</note> 
+               <hi>to have the heart eſta<g ref="char:EOLhyphen"/>bliſhed with grace,</hi> yea much better than to have the Head ſtuffed with Knowledge; for this may but aggravate our Condemnation, whilſt the other will ſecure and increaſe our Felicity. Grace is indeed the greateſt thing that God can give, or that we can receive; for 'tis a Ray of the Divinity, the very Character or Image of God ſtamped upon the Soul, and what higher thing can the moſt eleva<g ref="char:EOLhyphen"/>ted Ambition raiſe our Wiſhes to? Wherefore let our de<g ref="char:EOLhyphen"/>ſires and endeavours after it bear ſome proportion to its tranſcendent worth and excellency;
+<note place="margin">Pſal. 81<g ref="char:punc">▪</g> 40.</note> let us open our Mouths wide, that we may be filled with the Spirit, and let the cry of our Devotions,
+<note place="margin">Zech. 4<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> like the acclamations at the Building of the Temple, be evermore, Grace, Grace. But let us eſpecially, to whom the World hath given the ſtile of Spiritual Perſons, pray for a double portion of the Spirit, that God would furniſh us with his Gifts, to promote his Glory and the good of Mankind, and ſanctifie them with his Grace, that we may uſe them to thoſe ends, that as we excel others in the Holineſs of our Profeſſion, ſo we may in the Holineſs of our Lives too, <hi>adding to our know<g ref="char:EOLhyphen"/>ledge vertue, to vertue temperance, to temperance patience,
+<note place="margin">2 Pet<g ref="char:punc">▪</g> 5, 6, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> to patience brotherly-kindneſs, and to brotherly-kindneſs charity;</hi> for if theſe things be in us and abound, they will truly enoble our Minds, adorn our Profeſſion, and dignifie us far above all Earthly Preferments. In a word my Bre<g ref="char:EOLhyphen"/>thren! ſee that ye come behind in no Gift, being enrich'd in all knowledge, and in all utterance, that ye may ſpeak as the Oracles of God, and that all your Speeches may ad<g ref="char:EOLhyphen"/>miniſter Grace to the Hearers: So ſhall ye ſhine as Lights in this World, and as Stars of the firſt Magnitude in the Kingdom of Heaven.</p>
+            <pb n="30" facs="tcp:29907:16"/>
+            <p>Which that we may all do, I ſhall conclude with the excellent Collect appointed for this day.</p>
+            <p>
+               <hi>Almighty and moſt Merciful God, of whoſe only Gift it cometh, that thy faithful People do unto thee any true and laudable Service, grant us thy Grace, that we may ſo faithfully ſerve thee in this Life, that we fail not finally to attain thy Heavenly Promiſes, through the Merits of Jeſus Chriſt our Lord.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
